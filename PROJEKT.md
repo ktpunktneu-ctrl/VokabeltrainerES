@@ -45,7 +45,7 @@ Zielgruppe: Schüler & Interessierte (IT/EN/FR/ES), Berufstätige/Manager (Busin
 
 - **Freischaltung:** Code-Eingabefeld im Lizenz-Modal, prüft per Fetch gegen Gumroads License-Verification-API (`https://api.gumroad.com/v2/licenses/verify`).
 - **Preis:** 9,95 € einmalig (IT/EN/FR/ES), 19,95 € (BusinessEN) — Kauf-Link im Modal.
-- **Master-Code für Eigennutzung:** `ktpunkt-master-2026` — schaltet sofort und dauerhaft frei, ganz ohne Gumroad-Prüfung/Internet. Konstante `MASTER_CODE` in `index.html` (alle Apps).
+- **Master-Code für Eigennutzung:** siehe Konstante `MASTER_CODE` in `index.html` (alle Apps) — schaltet sofort und dauerhaft frei, ganz ohne Gumroad-Prüfung/Internet. (Wert bewusst nicht in dieser Doku, IT/EN sind öffentliche Repos.)
 - **Bestandsnutzer-Schutz:** `pruefeBestandsnutzer()` schaltet Nutzer, die vor dem Feature-Gating schon Daten hatten, automatisch dauerhaft frei.
 
 **Noch offen / ACHTUNG — Klaus muss selbst tun:**
