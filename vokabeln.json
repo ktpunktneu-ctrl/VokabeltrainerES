@@ -1,0 +1,4196 @@
+[
+  {
+    "id": 1,
+    "kategorie": "Grundlagen",
+    "it": "hola",
+    "de": "Hallo"
+  },
+  {
+    "id": 2,
+    "kategorie": "Grundlagen",
+    "it": "adiós",
+    "de": "Auf Wiedersehen"
+  },
+  {
+    "id": 3,
+    "kategorie": "Grundlagen",
+    "it": "por favor",
+    "de": "bitte"
+  },
+  {
+    "id": 4,
+    "kategorie": "Grundlagen",
+    "it": "gracias",
+    "de": "danke"
+  },
+  {
+    "id": 5,
+    "kategorie": "Grundlagen",
+    "it": "de nada",
+    "de": "bitte (Antwort)"
+  },
+  {
+    "id": 6,
+    "kategorie": "Grundlagen",
+    "it": "sí",
+    "de": "ja"
+  },
+  {
+    "id": 7,
+    "kategorie": "Grundlagen",
+    "it": "no",
+    "de": "nein"
+  },
+  {
+    "id": 8,
+    "kategorie": "Grundlagen",
+    "it": "perdón",
+    "de": "Entschuldigung"
+  },
+  {
+    "id": 9,
+    "kategorie": "Grundlagen",
+    "it": "buenos días",
+    "de": "Guten Morgen"
+  },
+  {
+    "id": 10,
+    "kategorie": "Grundlagen",
+    "it": "buenas tardes",
+    "de": "Guten Abend"
+  },
+  {
+    "id": 11,
+    "kategorie": "Zahlen",
+    "it": "uno",
+    "de": "eins"
+  },
+  {
+    "id": 12,
+    "kategorie": "Zahlen",
+    "it": "dos",
+    "de": "zwei"
+  },
+  {
+    "id": 13,
+    "kategorie": "Zahlen",
+    "it": "tres",
+    "de": "drei"
+  },
+  {
+    "id": 14,
+    "kategorie": "Zahlen",
+    "it": "cuatro",
+    "de": "vier"
+  },
+  {
+    "id": 15,
+    "kategorie": "Zahlen",
+    "it": "cinco",
+    "de": "fünf"
+  },
+  {
+    "id": 16,
+    "kategorie": "Zahlen",
+    "it": "seis",
+    "de": "sechs"
+  },
+  {
+    "id": 17,
+    "kategorie": "Zahlen",
+    "it": "siete",
+    "de": "sieben"
+  },
+  {
+    "id": 18,
+    "kategorie": "Zahlen",
+    "it": "ocho",
+    "de": "acht"
+  },
+  {
+    "id": 19,
+    "kategorie": "Zahlen",
+    "it": "nueve",
+    "de": "neun"
+  },
+  {
+    "id": 20,
+    "kategorie": "Zahlen",
+    "it": "diez",
+    "de": "zehn"
+  },
+  {
+    "id": 21,
+    "kategorie": "Farben",
+    "it": "rojo",
+    "de": "rot"
+  },
+  {
+    "id": 22,
+    "kategorie": "Farben",
+    "it": "azul",
+    "de": "blau"
+  },
+  {
+    "id": 23,
+    "kategorie": "Farben",
+    "it": "verde",
+    "de": "grün"
+  },
+  {
+    "id": 24,
+    "kategorie": "Farben",
+    "it": "amarillo",
+    "de": "gelb"
+  },
+  {
+    "id": 25,
+    "kategorie": "Farben",
+    "it": "negro",
+    "de": "schwarz"
+  },
+  {
+    "id": 26,
+    "kategorie": "Farben",
+    "it": "blanco",
+    "de": "weiß"
+  },
+  {
+    "id": 27,
+    "kategorie": "Farben",
+    "it": "marrón",
+    "de": "braun"
+  },
+  {
+    "id": 28,
+    "kategorie": "Farben",
+    "it": "morado",
+    "de": "lila"
+  },
+  {
+    "id": 29,
+    "kategorie": "Farben",
+    "it": "naranja",
+    "de": "orange"
+  },
+  {
+    "id": 30,
+    "kategorie": "Farben",
+    "it": "rosa",
+    "de": "rosa"
+  },
+  {
+    "id": 31,
+    "kategorie": "Familie",
+    "it": "madre",
+    "de": "Mutter"
+  },
+  {
+    "id": 32,
+    "kategorie": "Familie",
+    "it": "padre",
+    "de": "Vater"
+  },
+  {
+    "id": 33,
+    "kategorie": "Familie",
+    "it": "hermano",
+    "de": "Bruder"
+  },
+  {
+    "id": 34,
+    "kategorie": "Familie",
+    "it": "hermana",
+    "de": "Schwester"
+  },
+  {
+    "id": 35,
+    "kategorie": "Familie",
+    "it": "hijo",
+    "de": "Sohn"
+  },
+  {
+    "id": 36,
+    "kategorie": "Familie",
+    "it": "hija",
+    "de": "Tochter"
+  },
+  {
+    "id": 37,
+    "kategorie": "Familie",
+    "it": "abuelo",
+    "de": "Großvater"
+  },
+  {
+    "id": 38,
+    "kategorie": "Familie",
+    "it": "abuela",
+    "de": "Großmutter"
+  },
+  {
+    "id": 39,
+    "kategorie": "Familie",
+    "it": "marido",
+    "de": "Ehemann"
+  },
+  {
+    "id": 40,
+    "kategorie": "Familie",
+    "it": "esposa",
+    "de": "Ehefrau"
+  },
+  {
+    "id": 41,
+    "kategorie": "Essen",
+    "it": "pan",
+    "de": "Brot"
+  },
+  {
+    "id": 42,
+    "kategorie": "Essen",
+    "it": "agua",
+    "de": "Wasser"
+  },
+  {
+    "id": 43,
+    "kategorie": "Essen",
+    "it": "vino",
+    "de": "Wein"
+  },
+  {
+    "id": 44,
+    "kategorie": "Essen",
+    "it": "pasta",
+    "de": "Nudeln"
+  },
+  {
+    "id": 45,
+    "kategorie": "Essen",
+    "it": "pescado",
+    "de": "Fisch"
+  },
+  {
+    "id": 46,
+    "kategorie": "Essen",
+    "it": "carne",
+    "de": "Fleisch"
+  },
+  {
+    "id": 47,
+    "kategorie": "Essen",
+    "it": "queso",
+    "de": "Käse"
+  },
+  {
+    "id": 48,
+    "kategorie": "Essen",
+    "it": "fruta",
+    "de": "Obst"
+  },
+  {
+    "id": 49,
+    "kategorie": "Essen",
+    "it": "verdura",
+    "de": "Gemüse"
+  },
+  {
+    "id": 50,
+    "kategorie": "Essen",
+    "it": "postre",
+    "de": "süß / nett / lieb / Nachspeise"
+  },
+  {
+    "id": 51,
+    "kategorie": "Zeit",
+    "it": "hoy",
+    "de": "heute"
+  },
+  {
+    "id": 52,
+    "kategorie": "Zeit",
+    "it": "mañana",
+    "de": "morgen"
+  },
+  {
+    "id": 53,
+    "kategorie": "Zeit",
+    "it": "ayer",
+    "de": "gestern"
+  },
+  {
+    "id": 54,
+    "kategorie": "Zeit",
+    "it": "semana",
+    "de": "Woche"
+  },
+  {
+    "id": 55,
+    "kategorie": "Zeit",
+    "it": "mes",
+    "de": "Monat"
+  },
+  {
+    "id": 56,
+    "kategorie": "Zeit",
+    "it": "año",
+    "de": "Jahr"
+  },
+  {
+    "id": 57,
+    "kategorie": "Zeit",
+    "it": "hora",
+    "de": "Stunde"
+  },
+  {
+    "id": 58,
+    "kategorie": "Zeit",
+    "it": "minuto",
+    "de": "Minute"
+  },
+  {
+    "id": 59,
+    "kategorie": "Verben",
+    "it": "ser",
+    "de": "sein",
+    "formen": {
+      "yo": "soy",
+      "tu": "eres",
+      "el": "es",
+      "nosotros": "somos",
+      "vosotros": "sois",
+      "ellos": "son"
+    }
+  },
+  {
+    "id": 60,
+    "kategorie": "Verben",
+    "it": "tener",
+    "de": "haben",
+    "formen": {
+      "yo": "tengo",
+      "tu": "tienes",
+      "el": "tiene",
+      "nosotros": "tenemos",
+      "vosotros": "tenéis",
+      "ellos": "tienen"
+    }
+  },
+  {
+    "id": 61,
+    "kategorie": "Verben",
+    "it": "ir",
+    "de": "gehen",
+    "formen": {
+      "yo": "voy",
+      "tu": "vas",
+      "el": "va",
+      "nosotros": "vamos",
+      "vosotros": "vais",
+      "ellos": "van"
+    }
+  },
+  {
+    "id": 62,
+    "kategorie": "Verben",
+    "it": "hacer",
+    "de": "machen / tun",
+    "formen": {
+      "yo": "hago",
+      "tu": "haces",
+      "el": "hace",
+      "nosotros": "hacemos",
+      "vosotros": "hacéis",
+      "ellos": "hacen"
+    }
+  },
+  {
+    "id": 63,
+    "kategorie": "Verben",
+    "it": "comer",
+    "de": "essen",
+    "formen": {
+      "yo": "como",
+      "tu": "comes",
+      "el": "come",
+      "nosotros": "comemos",
+      "vosotros": "coméis",
+      "ellos": "comen"
+    }
+  },
+  {
+    "id": 64,
+    "kategorie": "Verben",
+    "it": "beber",
+    "de": "trinken",
+    "formen": {
+      "yo": "bebo",
+      "tu": "bebes",
+      "el": "bebe",
+      "nosotros": "bebemos",
+      "vosotros": "bebéis",
+      "ellos": "beben"
+    }
+  },
+  {
+    "id": 65,
+    "kategorie": "Verben",
+    "it": "ver",
+    "de": "sehen",
+    "formen": {
+      "yo": "veo",
+      "tu": "ves",
+      "el": "ve",
+      "nosotros": "vemos",
+      "vosotros": "veis",
+      "ellos": "ven"
+    }
+  },
+  {
+    "id": 66,
+    "kategorie": "Verben",
+    "it": "saber",
+    "de": "wissen",
+    "formen": {
+      "yo": "sé",
+      "tu": "sabes",
+      "el": "sabe",
+      "nosotros": "sabemos",
+      "vosotros": "sabéis",
+      "ellos": "saben"
+    }
+  },
+  {
+    "id": 67,
+    "kategorie": "Verben",
+    "it": "venir",
+    "de": "kommen",
+    "formen": {
+      "yo": "vengo",
+      "tu": "vienes",
+      "el": "viene",
+      "nosotros": "venimos",
+      "vosotros": "venís",
+      "ellos": "vienen"
+    }
+  },
+  {
+    "id": 68,
+    "kategorie": "Verben",
+    "it": "tomar",
+    "de": "nehmen",
+    "formen": {
+      "yo": "tomo",
+      "tu": "tomas",
+      "el": "toma",
+      "nosotros": "tomamos",
+      "vosotros": "tomáis",
+      "ellos": "toman"
+    }
+  },
+  {
+    "id": 69,
+    "kategorie": "Verben",
+    "it": "querer",
+    "de": "wollen"
+  },
+  {
+    "id": 70,
+    "kategorie": "Verben",
+    "it": "necesitar",
+    "de": "brauchen"
+  },
+  {
+    "id": 71,
+    "kategorie": "Verben",
+    "it": "gustar",
+    "de": "mögen"
+  },
+  {
+    "id": 72,
+    "kategorie": "Verben",
+    "it": "escuchar",
+    "de": "zuhören"
+  },
+  {
+    "id": 73,
+    "kategorie": "Personalpronomen",
+    "it": "yo",
+    "de": "ich"
+  },
+  {
+    "id": 74,
+    "kategorie": "Personalpronomen",
+    "it": "tú",
+    "de": "du"
+  },
+  {
+    "id": 75,
+    "kategorie": "Personalpronomen",
+    "it": "él",
+    "de": "er"
+  },
+  {
+    "id": 76,
+    "kategorie": "Personalpronomen",
+    "it": "ella",
+    "de": "sie"
+  },
+  {
+    "id": 77,
+    "kategorie": "Personalpronomen",
+    "it": "nosotros",
+    "de": "wir"
+  },
+  {
+    "id": 78,
+    "kategorie": "Personalpronomen",
+    "it": "vosotros",
+    "de": "ihr"
+  },
+  {
+    "id": 79,
+    "kategorie": "Personalpronomen",
+    "it": "ellos",
+    "de": "sie (Plural)"
+  },
+  {
+    "id": 80,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "decir",
+    "de": "sagen",
+    "formen": {
+      "yo": "digo",
+      "tu": "dices",
+      "el": "dice",
+      "nosotros": "decimos",
+      "vosotros": "decís",
+      "ellos": "dicen"
+    }
+  },
+  {
+    "id": 81,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "dejar",
+    "de": "verlassen",
+    "formen": {
+      "yo": "dejo",
+      "tu": "dejas",
+      "el": "deja",
+      "nosotros": "dejamos",
+      "vosotros": "dejáis",
+      "ellos": "dejan"
+    }
+  },
+  {
+    "id": 82,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "sentarse",
+    "de": "sitzen",
+    "formen": {
+      "yo": "me siento",
+      "tu": "te sientas",
+      "el": "se sienta",
+      "nosotros": "nos sentamos",
+      "vosotros": "os sentáis",
+      "ellos": "se sientan"
+    }
+  },
+  {
+    "id": 83,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "dormir",
+    "de": "schlafen",
+    "formen": {
+      "yo": "duermo",
+      "tu": "duermes",
+      "el": "duerme",
+      "nosotros": "dormimos",
+      "vosotros": "dormís",
+      "ellos": "duermen"
+    }
+  },
+  {
+    "id": 84,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "elegir",
+    "de": "wählen",
+    "formen": {
+      "yo": "elijo",
+      "tu": "eliges",
+      "el": "elige",
+      "nosotros": "elegimos",
+      "vosotros": "elegís",
+      "ellos": "eligen"
+    }
+  },
+  {
+    "id": 85,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "romper",
+    "de": "kaputt machen",
+    "formen": {
+      "yo": "rompo",
+      "tu": "rompes",
+      "el": "rompe",
+      "nosotros": "rompemos",
+      "vosotros": "rompéis",
+      "ellos": "rompen"
+    }
+  },
+  {
+    "id": 86,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "escribir",
+    "de": "schreiben",
+    "formen": {
+      "yo": "escribo",
+      "tu": "escribes",
+      "el": "escribe",
+      "nosotros": "escribimos",
+      "vosotros": "escribís",
+      "ellos": "escriben"
+    }
+  },
+  {
+    "id": 87,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "leer",
+    "de": "lesen",
+    "formen": {
+      "yo": "leo",
+      "tu": "lees",
+      "el": "lee",
+      "nosotros": "leemos",
+      "vosotros": "leéis",
+      "ellos": "leen"
+    }
+  },
+  {
+    "id": 88,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "correr",
+    "de": "laufen",
+    "formen": {
+      "yo": "corro",
+      "tu": "corres",
+      "el": "corre",
+      "nosotros": "corremos",
+      "vosotros": "corréis",
+      "ellos": "corren"
+    }
+  },
+  {
+    "id": 89,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "empezar",
+    "de": "beginnen",
+    "formen": {
+      "yo": "empiezo",
+      "tu": "empiezas",
+      "el": "empieza",
+      "nosotros": "empezamos",
+      "vosotros": "empezáis",
+      "ellos": "empiezan"
+    }
+  },
+  {
+    "id": 90,
+    "kategorie": "Grundlagen",
+    "it": "buenas noches",
+    "de": "Gute Nacht"
+  },
+  {
+    "id": 91,
+    "kategorie": "Grundlagen",
+    "it": "hasta pronto",
+    "de": "bis bald"
+  },
+  {
+    "id": 92,
+    "kategorie": "Grundlagen",
+    "it": "hasta luego",
+    "de": "bis später"
+  },
+  {
+    "id": 93,
+    "kategorie": "Grundlagen",
+    "it": "nos vemos",
+    "de": "wir sehen uns / bis dann"
+  },
+  {
+    "id": 94,
+    "kategorie": "Grundlagen",
+    "it": "¿cómo estás?",
+    "de": "wie geht es dir?"
+  },
+  {
+    "id": 95,
+    "kategorie": "Grundlagen",
+    "it": "estoy bien",
+    "de": "mir geht es gut"
+  },
+  {
+    "id": 96,
+    "kategorie": "Grundlagen",
+    "it": "no estoy bien",
+    "de": "mir geht es schlecht"
+  },
+  {
+    "id": 97,
+    "kategorie": "Grundlagen",
+    "it": "así así",
+    "de": "so lala"
+  },
+  {
+    "id": 98,
+    "kategorie": "Grundlagen",
+    "it": "mucho gusto",
+    "de": "freut mich"
+  },
+  {
+    "id": 99,
+    "kategorie": "Grundlagen",
+    "it": "¿cómo te llamas?",
+    "de": "wie heißt du?"
+  },
+  {
+    "id": 100,
+    "kategorie": "Grundlagen",
+    "it": "me llamo...",
+    "de": "ich heiße..."
+  },
+  {
+    "id": 101,
+    "kategorie": "Grundlagen",
+    "it": "¿de dónde eres?",
+    "de": "woher kommst du?"
+  },
+  {
+    "id": 102,
+    "kategorie": "Grundlagen",
+    "it": "soy de...",
+    "de": "ich komme aus..."
+  },
+  {
+    "id": 103,
+    "kategorie": "Grundlagen",
+    "it": "¿cuántos años tienes?",
+    "de": "wie alt bist du?"
+  },
+  {
+    "id": 104,
+    "kategorie": "Grundlagen",
+    "it": "tengo ... años",
+    "de": "ich bin ... Jahre alt"
+  },
+  {
+    "id": 105,
+    "kategorie": "Grundlagen",
+    "it": "disculpe",
+    "de": "Entschuldigung (Ansprache)"
+  },
+  {
+    "id": 106,
+    "kategorie": "Grundlagen",
+    "it": "lo siento",
+    "de": "es tut mir leid"
+  },
+  {
+    "id": 107,
+    "kategorie": "Grundlagen",
+    "it": "no hay problema",
+    "de": "kein Problem"
+  },
+  {
+    "id": 108,
+    "kategorie": "Grundlagen",
+    "it": "por supuesto",
+    "de": "natürlich"
+  },
+  {
+    "id": 109,
+    "kategorie": "Grundlagen",
+    "it": "de acuerdo",
+    "de": "in Ordnung"
+  },
+  {
+    "id": 110,
+    "kategorie": "Grundlagen",
+    "it": "conforme",
+    "de": "einverstanden"
+  },
+  {
+    "id": 111,
+    "kategorie": "Grundlagen",
+    "it": "quizás",
+    "de": "vielleicht"
+  },
+  {
+    "id": 112,
+    "kategorie": "Grundlagen",
+    "it": "tal vez",
+    "de": "vielleicht (formell)"
+  },
+  {
+    "id": 113,
+    "kategorie": "Grundlagen",
+    "it": "¡socorro!",
+    "de": "Hilfe!"
+  },
+  {
+    "id": 114,
+    "kategorie": "Grundlagen",
+    "it": "cuidado",
+    "de": "Achtung / vorsichtig"
+  },
+  {
+    "id": 115,
+    "kategorie": "Grundlagen",
+    "it": "felicidades",
+    "de": "Glückwünsche"
+  },
+  {
+    "id": 116,
+    "kategorie": "Grundlagen",
+    "it": "feliz cumpleaños",
+    "de": "alles Gute zum Geburtstag"
+  },
+  {
+    "id": 117,
+    "kategorie": "Grundlagen",
+    "it": "buen provecho",
+    "de": "guten Appetit"
+  },
+  {
+    "id": 118,
+    "kategorie": "Grundlagen",
+    "it": "buen viaje",
+    "de": "gute Reise"
+  },
+  {
+    "id": 119,
+    "kategorie": "Grundlagen",
+    "it": "buena suerte",
+    "de": "viel Glück"
+  },
+  {
+    "id": 120,
+    "kategorie": "Grundlagen",
+    "it": "¡jesús!",
+    "de": "Gesundheit"
+  },
+  {
+    "id": 121,
+    "kategorie": "Grundlagen",
+    "it": "¡salud!",
+    "de": "Prost"
+  },
+  {
+    "id": 122,
+    "kategorie": "Grundlagen",
+    "it": "bienvenido",
+    "de": "willkommen"
+  },
+  {
+    "id": 123,
+    "kategorie": "Grundlagen",
+    "it": "un momento",
+    "de": "einen Moment"
+  },
+  {
+    "id": 124,
+    "kategorie": "Grundlagen",
+    "it": "no entiendo",
+    "de": "ich verstehe nicht"
+  },
+  {
+    "id": 125,
+    "kategorie": "Grundlagen",
+    "it": "¿puedes repetir?",
+    "de": "kannst du das wiederholen?"
+  },
+  {
+    "id": 126,
+    "kategorie": "Grundlagen",
+    "it": "¿hablas inglés?",
+    "de": "sprichst du Englisch?"
+  },
+  {
+    "id": 127,
+    "kategorie": "Grundlagen",
+    "it": "no hablo bien inglés",
+    "de": "ich spreche nicht gut Englisch"
+  },
+  {
+    "id": 128,
+    "kategorie": "Grundlagen",
+    "it": "¿cómo se dice...?",
+    "de": "wie sagt man...?"
+  },
+  {
+    "id": 129,
+    "kategorie": "Grundlagen",
+    "it": "¿qué significa?",
+    "de": "was bedeutet das?"
+  },
+  {
+    "id": 130,
+    "kategorie": "Grundlagen",
+    "it": "sí, claro",
+    "de": "ja, klar"
+  },
+  {
+    "id": 131,
+    "kategorie": "Grundlagen",
+    "it": "no, gracias",
+    "de": "nein, danke"
+  },
+  {
+    "id": 132,
+    "kategorie": "Grundlagen",
+    "it": "ayúdame, por favor",
+    "de": "bitte hilf mir"
+  },
+  {
+    "id": 133,
+    "kategorie": "Grundlagen",
+    "it": "que tengas un buen día",
+    "de": "einen schönen Tag"
+  },
+  {
+    "id": 134,
+    "kategorie": "Grundlagen",
+    "it": "buen fin de semana",
+    "de": "schönes Wochenende"
+  },
+  {
+    "id": 135,
+    "kategorie": "Grundlagen",
+    "it": "cuídate",
+    "de": "pass auf dich auf"
+  },
+  {
+    "id": 136,
+    "kategorie": "Grundlagen",
+    "it": "hasta mañana",
+    "de": "bis morgen"
+  },
+  {
+    "id": 137,
+    "kategorie": "Grundlagen",
+    "it": "qué bueno verte",
+    "de": "schön dich zu sehen"
+  },
+  {
+    "id": 138,
+    "kategorie": "Grundlagen",
+    "it": "¿qué tal?",
+    "de": "was geht ab? / wie geht's?"
+  },
+  {
+    "id": 139,
+    "kategorie": "Grundlagen",
+    "it": "no está mal",
+    "de": "nicht schlecht"
+  },
+  {
+    "id": 140,
+    "kategorie": "Zahlen",
+    "it": "once",
+    "de": "elf"
+  },
+  {
+    "id": 141,
+    "kategorie": "Zahlen",
+    "it": "doce",
+    "de": "zwölf"
+  },
+  {
+    "id": 142,
+    "kategorie": "Zahlen",
+    "it": "trece",
+    "de": "dreizehn"
+  },
+  {
+    "id": 143,
+    "kategorie": "Zahlen",
+    "it": "catorce",
+    "de": "vierzehn"
+  },
+  {
+    "id": 144,
+    "kategorie": "Zahlen",
+    "it": "quince",
+    "de": "fünfzehn"
+  },
+  {
+    "id": 145,
+    "kategorie": "Zahlen",
+    "it": "dieciséis",
+    "de": "sechzehn"
+  },
+  {
+    "id": 146,
+    "kategorie": "Zahlen",
+    "it": "diecisiete",
+    "de": "siebzehn"
+  },
+  {
+    "id": 147,
+    "kategorie": "Zahlen",
+    "it": "dieciocho",
+    "de": "achtzehn"
+  },
+  {
+    "id": 148,
+    "kategorie": "Zahlen",
+    "it": "diecinueve",
+    "de": "neunzehn"
+  },
+  {
+    "id": 149,
+    "kategorie": "Zahlen",
+    "it": "veinte",
+    "de": "zwanzig"
+  },
+  {
+    "id": 150,
+    "kategorie": "Zahlen",
+    "it": "veintiuno",
+    "de": "einundzwanzig"
+  },
+  {
+    "id": 151,
+    "kategorie": "Zahlen",
+    "it": "veinticinco",
+    "de": "fünfundzwanzig"
+  },
+  {
+    "id": 152,
+    "kategorie": "Zahlen",
+    "it": "treinta",
+    "de": "dreißig"
+  },
+  {
+    "id": 153,
+    "kategorie": "Zahlen",
+    "it": "cuarenta",
+    "de": "vierzig"
+  },
+  {
+    "id": 154,
+    "kategorie": "Zahlen",
+    "it": "cincuenta",
+    "de": "fünfzig"
+  },
+  {
+    "id": 155,
+    "kategorie": "Zahlen",
+    "it": "sesenta",
+    "de": "sechzig"
+  },
+  {
+    "id": 156,
+    "kategorie": "Zahlen",
+    "it": "setenta",
+    "de": "siebzig"
+  },
+  {
+    "id": 157,
+    "kategorie": "Zahlen",
+    "it": "ochenta",
+    "de": "achtzig"
+  },
+  {
+    "id": 158,
+    "kategorie": "Zahlen",
+    "it": "noventa",
+    "de": "neunzig"
+  },
+  {
+    "id": 159,
+    "kategorie": "Zahlen",
+    "it": "cien",
+    "de": "hundert"
+  },
+  {
+    "id": 160,
+    "kategorie": "Zahlen",
+    "it": "ciento uno",
+    "de": "hunderteins"
+  },
+  {
+    "id": 161,
+    "kategorie": "Zahlen",
+    "it": "doscientos",
+    "de": "zweihundert"
+  },
+  {
+    "id": 162,
+    "kategorie": "Zahlen",
+    "it": "quinientos",
+    "de": "fünfhundert"
+  },
+  {
+    "id": 163,
+    "kategorie": "Zahlen",
+    "it": "mil",
+    "de": "tausend"
+  },
+  {
+    "id": 164,
+    "kategorie": "Zahlen",
+    "it": "dos mil",
+    "de": "zweitausend"
+  },
+  {
+    "id": 165,
+    "kategorie": "Zahlen",
+    "it": "diez mil",
+    "de": "zehntausend"
+  },
+  {
+    "id": 166,
+    "kategorie": "Zahlen",
+    "it": "cien mil",
+    "de": "hunderttausend"
+  },
+  {
+    "id": 167,
+    "kategorie": "Zahlen",
+    "it": "millón",
+    "de": "Million"
+  },
+  {
+    "id": 168,
+    "kategorie": "Zahlen",
+    "it": "mil millones",
+    "de": "Milliarde"
+  },
+  {
+    "id": 169,
+    "kategorie": "Zahlen",
+    "it": "primero",
+    "de": "erster"
+  },
+  {
+    "id": 170,
+    "kategorie": "Zahlen",
+    "it": "segundo",
+    "de": "zweiter"
+  },
+  {
+    "id": 171,
+    "kategorie": "Zahlen",
+    "it": "tercero",
+    "de": "dritter"
+  },
+  {
+    "id": 172,
+    "kategorie": "Zahlen",
+    "it": "cuarto",
+    "de": "vierter"
+  },
+  {
+    "id": 173,
+    "kategorie": "Zahlen",
+    "it": "quinto",
+    "de": "fünfter"
+  },
+  {
+    "id": 174,
+    "kategorie": "Zahlen",
+    "it": "sexto",
+    "de": "sechster"
+  },
+  {
+    "id": 175,
+    "kategorie": "Zahlen",
+    "it": "séptimo",
+    "de": "siebter"
+  },
+  {
+    "id": 176,
+    "kategorie": "Zahlen",
+    "it": "octavo",
+    "de": "achter"
+  },
+  {
+    "id": 177,
+    "kategorie": "Zahlen",
+    "it": "noveno",
+    "de": "neunter"
+  },
+  {
+    "id": 178,
+    "kategorie": "Zahlen",
+    "it": "décimo",
+    "de": "zehnter"
+  },
+  {
+    "id": 179,
+    "kategorie": "Zahlen",
+    "it": "vigésimo",
+    "de": "zwanzigster"
+  },
+  {
+    "id": 180,
+    "kategorie": "Zahlen",
+    "it": "centésimo",
+    "de": "hundertster"
+  },
+  {
+    "id": 181,
+    "kategorie": "Zahlen",
+    "it": "último",
+    "de": "letzter"
+  },
+  {
+    "id": 182,
+    "kategorie": "Zahlen",
+    "it": "cero",
+    "de": "null"
+  },
+  {
+    "id": 183,
+    "kategorie": "Zahlen",
+    "it": "par",
+    "de": "Paar"
+  },
+  {
+    "id": 184,
+    "kategorie": "Zahlen",
+    "it": "docena",
+    "de": "Dutzend"
+  },
+  {
+    "id": 185,
+    "kategorie": "Zahlen",
+    "it": "mitad",
+    "de": "Hälfte"
+  },
+  {
+    "id": 186,
+    "kategorie": "Zahlen",
+    "it": "un tercio",
+    "de": "ein Drittel"
+  },
+  {
+    "id": 187,
+    "kategorie": "Zahlen",
+    "it": "un cuarto",
+    "de": "ein Viertel"
+  },
+  {
+    "id": 188,
+    "kategorie": "Zahlen",
+    "it": "doble",
+    "de": "doppelt"
+  },
+  {
+    "id": 189,
+    "kategorie": "Zahlen",
+    "it": "número",
+    "de": "Zahl"
+  },
+  {
+    "id": 190,
+    "kategorie": "Farben",
+    "it": "gris",
+    "de": "grau"
+  },
+  {
+    "id": 191,
+    "kategorie": "Farben",
+    "it": "azul claro",
+    "de": "hellblau"
+  },
+  {
+    "id": 192,
+    "kategorie": "Farben",
+    "it": "azul cielo",
+    "de": "himmelblau"
+  },
+  {
+    "id": 193,
+    "kategorie": "Farben",
+    "it": "turquesa",
+    "de": "türkis"
+  },
+  {
+    "id": 194,
+    "kategorie": "Farben",
+    "it": "índigo",
+    "de": "indigo"
+  },
+  {
+    "id": 195,
+    "kategorie": "Farben",
+    "it": "beige",
+    "de": "beige"
+  },
+  {
+    "id": 196,
+    "kategorie": "Farben",
+    "it": "dorado",
+    "de": "gold"
+  },
+  {
+    "id": 197,
+    "kategorie": "Farben",
+    "it": "plateado",
+    "de": "silber"
+  },
+  {
+    "id": 198,
+    "kategorie": "Farben",
+    "it": "bronce",
+    "de": "bronze"
+  },
+  {
+    "id": 199,
+    "kategorie": "Farben",
+    "it": "lila",
+    "de": "flieder"
+  },
+  {
+    "id": 200,
+    "kategorie": "Farben",
+    "it": "magenta",
+    "de": "magenta"
+  },
+  {
+    "id": 201,
+    "kategorie": "Farben",
+    "it": "cian",
+    "de": "cyan"
+  },
+  {
+    "id": 202,
+    "kategorie": "Farben",
+    "it": "violeta",
+    "de": "violett"
+  },
+  {
+    "id": 203,
+    "kategorie": "Farben",
+    "it": "fucsia",
+    "de": "pink / fuchsia"
+  },
+  {
+    "id": 204,
+    "kategorie": "Farben",
+    "it": "crema",
+    "de": "creme"
+  },
+  {
+    "id": 205,
+    "kategorie": "Farben",
+    "it": "marfil",
+    "de": "elfenbein"
+  },
+  {
+    "id": 206,
+    "kategorie": "Farben",
+    "it": "caqui",
+    "de": "khaki"
+  },
+  {
+    "id": 207,
+    "kategorie": "Farben",
+    "it": "granate",
+    "de": "kastanienbraun / bordeaux"
+  },
+  {
+    "id": 208,
+    "kategorie": "Farben",
+    "it": "verde oscuro",
+    "de": "dunkelgrün"
+  },
+  {
+    "id": 209,
+    "kategorie": "Farben",
+    "it": "verde claro",
+    "de": "hellgrün"
+  },
+  {
+    "id": 210,
+    "kategorie": "Farben",
+    "it": "verde azulado",
+    "de": "blaugrün"
+  },
+  {
+    "id": 211,
+    "kategorie": "Farben",
+    "it": "rojo oscuro",
+    "de": "dunkelrot"
+  },
+  {
+    "id": 212,
+    "kategorie": "Farben",
+    "it": "rosa claro",
+    "de": "hellrosa"
+  },
+  {
+    "id": 213,
+    "kategorie": "Farben",
+    "it": "azul oscuro",
+    "de": "dunkelblau"
+  },
+  {
+    "id": 214,
+    "kategorie": "Farben",
+    "it": "azul marino",
+    "de": "marineblau"
+  },
+  {
+    "id": 215,
+    "kategorie": "Farben",
+    "it": "gris oscuro",
+    "de": "dunkelgrau"
+  },
+  {
+    "id": 216,
+    "kategorie": "Farben",
+    "it": "gris claro",
+    "de": "hellgrau"
+  },
+  {
+    "id": 217,
+    "kategorie": "Farben",
+    "it": "marrón claro",
+    "de": "hellbraun"
+  },
+  {
+    "id": 218,
+    "kategorie": "Farben",
+    "it": "amarillo claro",
+    "de": "hellgelb"
+  },
+  {
+    "id": 219,
+    "kategorie": "Farben",
+    "it": "negro mate",
+    "de": "mattschwarz"
+  },
+  {
+    "id": 220,
+    "kategorie": "Farben",
+    "it": "blanco roto",
+    "de": "gebrochenes Weiß"
+  },
+  {
+    "id": 221,
+    "kategorie": "Farben",
+    "it": "multicolor",
+    "de": "bunt"
+  },
+  {
+    "id": 222,
+    "kategorie": "Farben",
+    "it": "transparente",
+    "de": "durchsichtig"
+  },
+  {
+    "id": 223,
+    "kategorie": "Farben",
+    "it": "mate",
+    "de": "matt"
+  },
+  {
+    "id": 224,
+    "kategorie": "Farben",
+    "it": "brillante",
+    "de": "glänzend"
+  },
+  {
+    "id": 225,
+    "kategorie": "Farben",
+    "it": "claro",
+    "de": "hell"
+  },
+  {
+    "id": 226,
+    "kategorie": "Farben",
+    "it": "oscuro",
+    "de": "dunkel"
+  },
+  {
+    "id": 227,
+    "kategorie": "Farben",
+    "it": "vivo",
+    "de": "leuchtend"
+  },
+  {
+    "id": 228,
+    "kategorie": "Farben",
+    "it": "pastel",
+    "de": "pastellfarben"
+  },
+  {
+    "id": 229,
+    "kategorie": "Farben",
+    "it": "liso",
+    "de": "einfarbig"
+  },
+  {
+    "id": 230,
+    "kategorie": "Farben",
+    "it": "a rayas",
+    "de": "gestreift"
+  },
+  {
+    "id": 231,
+    "kategorie": "Farben",
+    "it": "de lunares",
+    "de": "gepunktet"
+  },
+  {
+    "id": 232,
+    "kategorie": "Farben",
+    "it": "a cuadros",
+    "de": "kariert"
+  },
+  {
+    "id": 233,
+    "kategorie": "Farben",
+    "it": "color",
+    "de": "Farbe"
+  },
+  {
+    "id": 234,
+    "kategorie": "Farben",
+    "it": "tono",
+    "de": "Farbton"
+  },
+  {
+    "id": 235,
+    "kategorie": "Farben",
+    "it": "matiz",
+    "de": "Farbnuance"
+  },
+  {
+    "id": 236,
+    "kategorie": "Farben",
+    "it": "arcoíris",
+    "de": "Regenbogen"
+  },
+  {
+    "id": 237,
+    "kategorie": "Farben",
+    "it": "paleta",
+    "de": "Palette"
+  },
+  {
+    "id": 238,
+    "kategorie": "Farben",
+    "it": "colorido",
+    "de": "farbig"
+  },
+  {
+    "id": 239,
+    "kategorie": "Farben",
+    "it": "descolorido",
+    "de": "verblasst"
+  },
+  {
+    "id": 240,
+    "kategorie": "Familie",
+    "it": "tío",
+    "de": "Onkel"
+  },
+  {
+    "id": 241,
+    "kategorie": "Familie",
+    "it": "tía",
+    "de": "Tante"
+  },
+  {
+    "id": 242,
+    "kategorie": "Familie",
+    "it": "primo",
+    "de": "Cousin / Cousine"
+  },
+  {
+    "id": 243,
+    "kategorie": "Familie",
+    "it": "sobrino",
+    "de": "Neffe"
+  },
+  {
+    "id": 244,
+    "kategorie": "Familie",
+    "it": "sobrina",
+    "de": "Nichte"
+  },
+  {
+    "id": 245,
+    "kategorie": "Familie",
+    "it": "suegro",
+    "de": "Schwiegervater"
+  },
+  {
+    "id": 246,
+    "kategorie": "Familie",
+    "it": "suegra",
+    "de": "Schwiegermutter"
+  },
+  {
+    "id": 247,
+    "kategorie": "Familie",
+    "it": "yerno",
+    "de": "Schwiegersohn"
+  },
+  {
+    "id": 248,
+    "kategorie": "Familie",
+    "it": "nuera",
+    "de": "Schwiegertochter"
+  },
+  {
+    "id": 249,
+    "kategorie": "Familie",
+    "it": "cuñado",
+    "de": "Schwager"
+  },
+  {
+    "id": 250,
+    "kategorie": "Familie",
+    "it": "cuñada",
+    "de": "Schwägerin"
+  },
+  {
+    "id": 251,
+    "kategorie": "Familie",
+    "it": "bisabuelo",
+    "de": "Urgroßvater"
+  },
+  {
+    "id": 252,
+    "kategorie": "Familie",
+    "it": "bisabuela",
+    "de": "Urgroßmutter"
+  },
+  {
+    "id": 253,
+    "kategorie": "Familie",
+    "it": "bisnieto",
+    "de": "Urenkel"
+  },
+  {
+    "id": 254,
+    "kategorie": "Familie",
+    "it": "padrastro",
+    "de": "Stiefvater"
+  },
+  {
+    "id": 255,
+    "kategorie": "Familie",
+    "it": "madrastra",
+    "de": "Stiefmutter"
+  },
+  {
+    "id": 256,
+    "kategorie": "Familie",
+    "it": "hermanastro",
+    "de": "Stiefbruder"
+  },
+  {
+    "id": 257,
+    "kategorie": "Familie",
+    "it": "hermanastra",
+    "de": "Stiefschwester"
+  },
+  {
+    "id": 258,
+    "kategorie": "Familie",
+    "it": "hermano gemelo",
+    "de": "Zwillingsbruder"
+  },
+  {
+    "id": 259,
+    "kategorie": "Familie",
+    "it": "hermana gemela",
+    "de": "Zwillingsschwester"
+  },
+  {
+    "id": 260,
+    "kategorie": "Familie",
+    "it": "familia",
+    "de": "Familie"
+  },
+  {
+    "id": 261,
+    "kategorie": "Familie",
+    "it": "parientes",
+    "de": "Verwandte"
+  },
+  {
+    "id": 262,
+    "kategorie": "Familie",
+    "it": "padres",
+    "de": "Eltern"
+  },
+  {
+    "id": 263,
+    "kategorie": "Familie",
+    "it": "hijos",
+    "de": "Kinder"
+  },
+  {
+    "id": 264,
+    "kategorie": "Familie",
+    "it": "novio",
+    "de": "Freund (Partner)"
+  },
+  {
+    "id": 265,
+    "kategorie": "Familie",
+    "it": "novia",
+    "de": "Freundin (Partnerin)"
+  },
+  {
+    "id": 266,
+    "kategorie": "Familie",
+    "it": "prometido",
+    "de": "Verlobter"
+  },
+  {
+    "id": 267,
+    "kategorie": "Familie",
+    "it": "prometida",
+    "de": "Verlobte"
+  },
+  {
+    "id": 268,
+    "kategorie": "Familie",
+    "it": "pareja",
+    "de": "Partner / Partnerin"
+  },
+  {
+    "id": 269,
+    "kategorie": "Familie",
+    "it": "viudo",
+    "de": "Witwer"
+  },
+  {
+    "id": 270,
+    "kategorie": "Familie",
+    "it": "viuda",
+    "de": "Witwe"
+  },
+  {
+    "id": 271,
+    "kategorie": "Familie",
+    "it": "adoptado",
+    "de": "adoptiert"
+  },
+  {
+    "id": 272,
+    "kategorie": "Familie",
+    "it": "hermano mayor",
+    "de": "älterer Bruder"
+  },
+  {
+    "id": 273,
+    "kategorie": "Familie",
+    "it": "hermana menor",
+    "de": "jüngere Schwester"
+  },
+  {
+    "id": 274,
+    "kategorie": "Familie",
+    "it": "hijo único",
+    "de": "Einzelkind"
+  },
+  {
+    "id": 275,
+    "kategorie": "Familie",
+    "it": "recién nacido",
+    "de": "Neugeborenes"
+  },
+  {
+    "id": 276,
+    "kategorie": "Familie",
+    "it": "niño",
+    "de": "Junge"
+  },
+  {
+    "id": 277,
+    "kategorie": "Familie",
+    "it": "niña",
+    "de": "Mädchen"
+  },
+  {
+    "id": 278,
+    "kategorie": "Familie",
+    "it": "adolescente",
+    "de": "Jugendlicher"
+  },
+  {
+    "id": 279,
+    "kategorie": "Familie",
+    "it": "adulto",
+    "de": "Erwachsener"
+  },
+  {
+    "id": 280,
+    "kategorie": "Familie",
+    "it": "persona mayor",
+    "de": "alter Mensch"
+  },
+  {
+    "id": 281,
+    "kategorie": "Familie",
+    "it": "familia numerosa",
+    "de": "Großfamilie"
+  },
+  {
+    "id": 282,
+    "kategorie": "Familie",
+    "it": "árbol genealógico",
+    "de": "Stammbaum"
+  },
+  {
+    "id": 283,
+    "kategorie": "Familie",
+    "it": "antepasado",
+    "de": "Vorfahre"
+  },
+  {
+    "id": 284,
+    "kategorie": "Familie",
+    "it": "descendiente",
+    "de": "Nachkomme"
+  },
+  {
+    "id": 285,
+    "kategorie": "Familie",
+    "it": "heredero",
+    "de": "Erbe"
+  },
+  {
+    "id": 286,
+    "kategorie": "Familie",
+    "it": "madrina",
+    "de": "Patin"
+  },
+  {
+    "id": 287,
+    "kategorie": "Familie",
+    "it": "padrino",
+    "de": "Pate"
+  },
+  {
+    "id": 288,
+    "kategorie": "Familie",
+    "it": "ahijado",
+    "de": "Patensohn"
+  },
+  {
+    "id": 289,
+    "kategorie": "Familie",
+    "it": "ahijada",
+    "de": "Patentochter"
+  },
+  {
+    "id": 290,
+    "kategorie": "Essen",
+    "it": "pollo",
+    "de": "Hähnchen"
+  },
+  {
+    "id": 291,
+    "kategorie": "Essen",
+    "it": "carne de res",
+    "de": "Rindfleisch"
+  },
+  {
+    "id": 292,
+    "kategorie": "Essen",
+    "it": "cerdo",
+    "de": "Schweinefleisch"
+  },
+  {
+    "id": 293,
+    "kategorie": "Essen",
+    "it": "huevo",
+    "de": "Ei"
+  },
+  {
+    "id": 294,
+    "kategorie": "Essen",
+    "it": "leche",
+    "de": "Milch"
+  },
+  {
+    "id": 295,
+    "kategorie": "Essen",
+    "it": "mantequilla",
+    "de": "Butter"
+  },
+  {
+    "id": 296,
+    "kategorie": "Essen",
+    "it": "aceite",
+    "de": "Öl"
+  },
+  {
+    "id": 297,
+    "kategorie": "Essen",
+    "it": "sal",
+    "de": "Salz"
+  },
+  {
+    "id": 298,
+    "kategorie": "Essen",
+    "it": "pimienta",
+    "de": "Pfeffer"
+  },
+  {
+    "id": 299,
+    "kategorie": "Essen",
+    "it": "azúcar",
+    "de": "Zucker"
+  },
+  {
+    "id": 300,
+    "kategorie": "Essen",
+    "it": "arroz",
+    "de": "Reis"
+  },
+  {
+    "id": 301,
+    "kategorie": "Essen",
+    "it": "pizza",
+    "de": "Pizza"
+  },
+  {
+    "id": 302,
+    "kategorie": "Essen",
+    "it": "ensalada",
+    "de": "Salat"
+  },
+  {
+    "id": 303,
+    "kategorie": "Essen",
+    "it": "sopa",
+    "de": "Suppe"
+  },
+  {
+    "id": 304,
+    "kategorie": "Essen",
+    "it": "guiso",
+    "de": "Eintopf"
+  },
+  {
+    "id": 305,
+    "kategorie": "Essen",
+    "it": "café",
+    "de": "Kaffee"
+  },
+  {
+    "id": 306,
+    "kategorie": "Essen",
+    "it": "té",
+    "de": "Tee"
+  },
+  {
+    "id": 307,
+    "kategorie": "Essen",
+    "it": "jugo",
+    "de": "Saft"
+  },
+  {
+    "id": 308,
+    "kategorie": "Essen",
+    "it": "cerveza",
+    "de": "Bier"
+  },
+  {
+    "id": 309,
+    "kategorie": "Essen",
+    "it": "tomate",
+    "de": "Tomate"
+  },
+  {
+    "id": 310,
+    "kategorie": "Essen",
+    "it": "patata",
+    "de": "Kartoffel"
+  },
+  {
+    "id": 311,
+    "kategorie": "Essen",
+    "it": "cebolla",
+    "de": "Zwiebel"
+  },
+  {
+    "id": 312,
+    "kategorie": "Essen",
+    "it": "ajo",
+    "de": "Knoblauch"
+  },
+  {
+    "id": 313,
+    "kategorie": "Essen",
+    "it": "limón",
+    "de": "Zitrone"
+  },
+  {
+    "id": 314,
+    "kategorie": "Essen",
+    "it": "manzana",
+    "de": "Apfel"
+  },
+  {
+    "id": 315,
+    "kategorie": "Essen",
+    "it": "plátano",
+    "de": "Banane"
+  },
+  {
+    "id": 316,
+    "kategorie": "Essen",
+    "it": "naranja (fruta)",
+    "de": "Orange"
+  },
+  {
+    "id": 317,
+    "kategorie": "Essen",
+    "it": "fresa",
+    "de": "Erdbeere"
+  },
+  {
+    "id": 318,
+    "kategorie": "Essen",
+    "it": "uva",
+    "de": "Weintraube"
+  },
+  {
+    "id": 319,
+    "kategorie": "Essen",
+    "it": "melocotón",
+    "de": "Pfirsich"
+  },
+  {
+    "id": 320,
+    "kategorie": "Essen",
+    "it": "cereza",
+    "de": "Kirsche"
+  },
+  {
+    "id": 321,
+    "kategorie": "Essen",
+    "it": "chocolate",
+    "de": "Schokolade"
+  },
+  {
+    "id": 322,
+    "kategorie": "Essen",
+    "it": "helado",
+    "de": "Eis"
+  },
+  {
+    "id": 323,
+    "kategorie": "Essen",
+    "it": "tarta",
+    "de": "Kuchen"
+  },
+  {
+    "id": 324,
+    "kategorie": "Essen",
+    "it": "galleta",
+    "de": "Keks"
+  },
+  {
+    "id": 325,
+    "kategorie": "Essen",
+    "it": "miel",
+    "de": "Honig"
+  },
+  {
+    "id": 326,
+    "kategorie": "Essen",
+    "it": "mermelada",
+    "de": "Marmelade"
+  },
+  {
+    "id": 327,
+    "kategorie": "Essen",
+    "it": "yogur",
+    "de": "Joghurt"
+  },
+  {
+    "id": 328,
+    "kategorie": "Essen",
+    "it": "jamón",
+    "de": "Schinken"
+  },
+  {
+    "id": 329,
+    "kategorie": "Essen",
+    "it": "salami",
+    "de": "Salami"
+  },
+  {
+    "id": 330,
+    "kategorie": "Essen",
+    "it": "atún",
+    "de": "Thunfisch"
+  },
+  {
+    "id": 331,
+    "kategorie": "Essen",
+    "it": "camarones",
+    "de": "Garnelen"
+  },
+  {
+    "id": 332,
+    "kategorie": "Essen",
+    "it": "champiñón",
+    "de": "Pilz"
+  },
+  {
+    "id": 333,
+    "kategorie": "Essen",
+    "it": "frijoles",
+    "de": "Bohnen"
+  },
+  {
+    "id": 334,
+    "kategorie": "Essen",
+    "it": "guisantes",
+    "de": "Erbsen"
+  },
+  {
+    "id": 335,
+    "kategorie": "Essen",
+    "it": "espinacas",
+    "de": "Spinat"
+  },
+  {
+    "id": 336,
+    "kategorie": "Essen",
+    "it": "zanahoria",
+    "de": "Karotte"
+  },
+  {
+    "id": 337,
+    "kategorie": "Essen",
+    "it": "lechuga",
+    "de": "Kopfsalat"
+  },
+  {
+    "id": 338,
+    "kategorie": "Essen",
+    "it": "vinagre",
+    "de": "Essig"
+  },
+  {
+    "id": 339,
+    "kategorie": "Essen",
+    "it": "harina",
+    "de": "Mehl"
+  },
+  {
+    "id": 340,
+    "kategorie": "Zeit",
+    "it": "segundo (tiempo)",
+    "de": "Sekunde"
+  },
+  {
+    "id": 341,
+    "kategorie": "Zeit",
+    "it": "día",
+    "de": "Tag"
+  },
+  {
+    "id": 342,
+    "kategorie": "Zeit",
+    "it": "noche",
+    "de": "Nacht"
+  },
+  {
+    "id": 343,
+    "kategorie": "Zeit",
+    "it": "mañana (parte del día)",
+    "de": "Morgen"
+  },
+  {
+    "id": 344,
+    "kategorie": "Zeit",
+    "it": "tarde",
+    "de": "Nachmittag"
+  },
+  {
+    "id": 345,
+    "kategorie": "Zeit",
+    "it": "tarde-noche",
+    "de": "Abend"
+  },
+  {
+    "id": 346,
+    "kategorie": "Zeit",
+    "it": "mediodía",
+    "de": "Mittag"
+  },
+  {
+    "id": 347,
+    "kategorie": "Zeit",
+    "it": "medianoche",
+    "de": "Mitternacht"
+  },
+  {
+    "id": 348,
+    "kategorie": "Zeit",
+    "it": "lunes",
+    "de": "Montag"
+  },
+  {
+    "id": 349,
+    "kategorie": "Zeit",
+    "it": "martes",
+    "de": "Dienstag"
+  },
+  {
+    "id": 350,
+    "kategorie": "Zeit",
+    "it": "miércoles",
+    "de": "Mittwoch"
+  },
+  {
+    "id": 351,
+    "kategorie": "Zeit",
+    "it": "jueves",
+    "de": "Donnerstag"
+  },
+  {
+    "id": 352,
+    "kategorie": "Zeit",
+    "it": "viernes",
+    "de": "Freitag"
+  },
+  {
+    "id": 353,
+    "kategorie": "Zeit",
+    "it": "sábado",
+    "de": "Samstag"
+  },
+  {
+    "id": 354,
+    "kategorie": "Zeit",
+    "it": "domingo",
+    "de": "Sonntag"
+  },
+  {
+    "id": 355,
+    "kategorie": "Zeit",
+    "it": "enero",
+    "de": "Januar"
+  },
+  {
+    "id": 356,
+    "kategorie": "Zeit",
+    "it": "febrero",
+    "de": "Februar"
+  },
+  {
+    "id": 357,
+    "kategorie": "Zeit",
+    "it": "marzo",
+    "de": "März"
+  },
+  {
+    "id": 358,
+    "kategorie": "Zeit",
+    "it": "abril",
+    "de": "April"
+  },
+  {
+    "id": 359,
+    "kategorie": "Zeit",
+    "it": "mayo",
+    "de": "Mai"
+  },
+  {
+    "id": 360,
+    "kategorie": "Zeit",
+    "it": "junio",
+    "de": "Juni"
+  },
+  {
+    "id": 361,
+    "kategorie": "Zeit",
+    "it": "julio",
+    "de": "Juli"
+  },
+  {
+    "id": 362,
+    "kategorie": "Zeit",
+    "it": "agosto",
+    "de": "August"
+  },
+  {
+    "id": 363,
+    "kategorie": "Zeit",
+    "it": "septiembre",
+    "de": "September"
+  },
+  {
+    "id": 364,
+    "kategorie": "Zeit",
+    "it": "octubre",
+    "de": "Oktober"
+  },
+  {
+    "id": 365,
+    "kategorie": "Zeit",
+    "it": "noviembre",
+    "de": "November"
+  },
+  {
+    "id": 366,
+    "kategorie": "Zeit",
+    "it": "diciembre",
+    "de": "Dezember"
+  },
+  {
+    "id": 367,
+    "kategorie": "Zeit",
+    "it": "primavera",
+    "de": "Frühling"
+  },
+  {
+    "id": 368,
+    "kategorie": "Zeit",
+    "it": "verano",
+    "de": "Sommer"
+  },
+  {
+    "id": 369,
+    "kategorie": "Zeit",
+    "it": "otoño",
+    "de": "Herbst"
+  },
+  {
+    "id": 370,
+    "kategorie": "Zeit",
+    "it": "invierno",
+    "de": "Winter"
+  },
+  {
+    "id": 371,
+    "kategorie": "Zeit",
+    "it": "ahora",
+    "de": "jetzt"
+  },
+  {
+    "id": 372,
+    "kategorie": "Zeit",
+    "it": "inmediatamente",
+    "de": "sofort"
+  },
+  {
+    "id": 373,
+    "kategorie": "Zeit",
+    "it": "temprano",
+    "de": "früh"
+  },
+  {
+    "id": 374,
+    "kategorie": "Zeit",
+    "it": "tarde (adv.)",
+    "de": "spät"
+  },
+  {
+    "id": 375,
+    "kategorie": "Zeit",
+    "it": "siempre",
+    "de": "immer"
+  },
+  {
+    "id": 376,
+    "kategorie": "Zeit",
+    "it": "nunca",
+    "de": "nie"
+  },
+  {
+    "id": 377,
+    "kategorie": "Zeit",
+    "it": "a menudo",
+    "de": "oft"
+  },
+  {
+    "id": 378,
+    "kategorie": "Zeit",
+    "it": "raramente",
+    "de": "selten"
+  },
+  {
+    "id": 379,
+    "kategorie": "Zeit",
+    "it": "a veces",
+    "de": "manchmal"
+  },
+  {
+    "id": 380,
+    "kategorie": "Zeit",
+    "it": "antes",
+    "de": "vorher"
+  },
+  {
+    "id": 381,
+    "kategorie": "Zeit",
+    "it": "después",
+    "de": "danach"
+  },
+  {
+    "id": 382,
+    "kategorie": "Zeit",
+    "it": "durante",
+    "de": "während"
+  },
+  {
+    "id": 383,
+    "kategorie": "Zeit",
+    "it": "todavía",
+    "de": "noch"
+  },
+  {
+    "id": 384,
+    "kategorie": "Zeit",
+    "it": "ya",
+    "de": "schon"
+  },
+  {
+    "id": 385,
+    "kategorie": "Zeit",
+    "it": "fin de semana",
+    "de": "Wochenende"
+  },
+  {
+    "id": 386,
+    "kategorie": "Zeit",
+    "it": "reloj",
+    "de": "Uhr"
+  },
+  {
+    "id": 387,
+    "kategorie": "Zeit",
+    "it": "calendario",
+    "de": "Kalender"
+  },
+  {
+    "id": 388,
+    "kategorie": "Zeit",
+    "it": "estación",
+    "de": "Jahreszeit"
+  },
+  {
+    "id": 389,
+    "kategorie": "Zeit",
+    "it": "siglo",
+    "de": "Jahrhundert"
+  },
+  {
+    "id": 390,
+    "kategorie": "Personalpronomen",
+    "it": "mi",
+    "de": "mein"
+  },
+  {
+    "id": 391,
+    "kategorie": "Personalpronomen",
+    "it": "el mío",
+    "de": "meiner / meins"
+  },
+  {
+    "id": 392,
+    "kategorie": "Personalpronomen",
+    "it": "tu",
+    "de": "dein"
+  },
+  {
+    "id": 393,
+    "kategorie": "Personalpronomen",
+    "it": "el tuyo",
+    "de": "deiner / deins"
+  },
+  {
+    "id": 394,
+    "kategorie": "Personalpronomen",
+    "it": "su (de él)",
+    "de": "sein"
+  },
+  {
+    "id": 395,
+    "kategorie": "Personalpronomen",
+    "it": "su (de ella)",
+    "de": "ihr"
+  },
+  {
+    "id": 396,
+    "kategorie": "Personalpronomen",
+    "it": "el suyo (de ella)",
+    "de": "ihrer / ihrs"
+  },
+  {
+    "id": 397,
+    "kategorie": "Personalpronomen",
+    "it": "su",
+    "de": "sein / ihr (sächlich)"
+  },
+  {
+    "id": 398,
+    "kategorie": "Personalpronomen",
+    "it": "nuestro",
+    "de": "unser"
+  },
+  {
+    "id": 399,
+    "kategorie": "Personalpronomen",
+    "it": "el nuestro",
+    "de": "unserer / unseres"
+  },
+  {
+    "id": 400,
+    "kategorie": "Personalpronomen",
+    "it": "vuestro",
+    "de": "euer"
+  },
+  {
+    "id": 401,
+    "kategorie": "Personalpronomen",
+    "it": "el vuestro",
+    "de": "eurer / eures"
+  },
+  {
+    "id": 402,
+    "kategorie": "Personalpronomen",
+    "it": "su (de ellos)",
+    "de": "ihr (Pl.)"
+  },
+  {
+    "id": 403,
+    "kategorie": "Personalpronomen",
+    "it": "el suyo (de ellos)",
+    "de": "ihrer (Pl.)"
+  },
+  {
+    "id": 404,
+    "kategorie": "Personalpronomen",
+    "it": "me / mí",
+    "de": "mich / mir"
+  },
+  {
+    "id": 405,
+    "kategorie": "Personalpronomen",
+    "it": "lo / le",
+    "de": "ihn / ihm"
+  },
+  {
+    "id": 406,
+    "kategorie": "Personalpronomen",
+    "it": "la / le",
+    "de": "sie / ihr"
+  },
+  {
+    "id": 407,
+    "kategorie": "Personalpronomen",
+    "it": "nos",
+    "de": "uns"
+  },
+  {
+    "id": 408,
+    "kategorie": "Personalpronomen",
+    "it": "os",
+    "de": "dich / euch"
+  },
+  {
+    "id": 409,
+    "kategorie": "Personalpronomen",
+    "it": "los / les",
+    "de": "sie / ihnen (Akk.)"
+  },
+  {
+    "id": 410,
+    "kategorie": "Personalpronomen",
+    "it": "me mismo",
+    "de": "mich selbst"
+  },
+  {
+    "id": 411,
+    "kategorie": "Personalpronomen",
+    "it": "te mismo",
+    "de": "dich selbst"
+  },
+  {
+    "id": 412,
+    "kategorie": "Personalpronomen",
+    "it": "sí mismo (él)",
+    "de": "sich selbst (m)"
+  },
+  {
+    "id": 413,
+    "kategorie": "Personalpronomen",
+    "it": "sí misma (ella)",
+    "de": "sich selbst (w)"
+  },
+  {
+    "id": 414,
+    "kategorie": "Personalpronomen",
+    "it": "sí mismo (ello)",
+    "de": "sich selbst (sächlich)"
+  },
+  {
+    "id": 415,
+    "kategorie": "Personalpronomen",
+    "it": "nosotros mismos",
+    "de": "uns selbst"
+  },
+  {
+    "id": 416,
+    "kategorie": "Personalpronomen",
+    "it": "vosotros mismos",
+    "de": "euch selbst"
+  },
+  {
+    "id": 417,
+    "kategorie": "Personalpronomen",
+    "it": "sí mismos (ellos)",
+    "de": "sich selbst (Pl.)"
+  },
+  {
+    "id": 418,
+    "kategorie": "Personalpronomen",
+    "it": "este/esta",
+    "de": "dieser / diese / dieses"
+  },
+  {
+    "id": 419,
+    "kategorie": "Personalpronomen",
+    "it": "ese/esa",
+    "de": "jener / jene / jenes"
+  },
+  {
+    "id": 420,
+    "kategorie": "Personalpronomen",
+    "it": "estos/estas",
+    "de": "diese (Pl.)"
+  },
+  {
+    "id": 421,
+    "kategorie": "Personalpronomen",
+    "it": "esos/esas",
+    "de": "jene (Pl.)"
+  },
+  {
+    "id": 422,
+    "kategorie": "Personalpronomen",
+    "it": "quién",
+    "de": "wer"
+  },
+  {
+    "id": 423,
+    "kategorie": "Personalpronomen",
+    "it": "a quién",
+    "de": "wen / wem"
+  },
+  {
+    "id": 424,
+    "kategorie": "Personalpronomen",
+    "it": "de quién",
+    "de": "wessen"
+  },
+  {
+    "id": 425,
+    "kategorie": "Personalpronomen",
+    "it": "cuál",
+    "de": "welcher"
+  },
+  {
+    "id": 426,
+    "kategorie": "Personalpronomen",
+    "it": "qué",
+    "de": "was"
+  },
+  {
+    "id": 427,
+    "kategorie": "Personalpronomen",
+    "it": "que",
+    "de": "der / die / das"
+  },
+  {
+    "id": 428,
+    "kategorie": "Personalpronomen",
+    "it": "alguien",
+    "de": "jemand"
+  },
+  {
+    "id": 429,
+    "kategorie": "Personalpronomen",
+    "it": "nadie",
+    "de": "niemand"
+  },
+  {
+    "id": 430,
+    "kategorie": "Personalpronomen",
+    "it": "todo el mundo",
+    "de": "jeder"
+  },
+  {
+    "id": 431,
+    "kategorie": "Personalpronomen",
+    "it": "todo",
+    "de": "alles"
+  },
+  {
+    "id": 432,
+    "kategorie": "Personalpronomen",
+    "it": "nada",
+    "de": "nichts"
+  },
+  {
+    "id": 433,
+    "kategorie": "Personalpronomen",
+    "it": "algo",
+    "de": "etwas"
+  },
+  {
+    "id": 434,
+    "kategorie": "Personalpronomen",
+    "it": "cualquiera",
+    "de": "irgendjemand"
+  },
+  {
+    "id": 435,
+    "kategorie": "Personalpronomen",
+    "it": "cualquier cosa",
+    "de": "irgendetwas"
+  },
+  {
+    "id": 436,
+    "kategorie": "Personalpronomen",
+    "it": "nadie (nadie más)",
+    "de": "niemand"
+  },
+  {
+    "id": 437,
+    "kategorie": "Personalpronomen",
+    "it": "el uno al otro",
+    "de": "einander"
+  },
+  {
+    "id": 438,
+    "kategorie": "Personalpronomen",
+    "it": "los unos a los otros",
+    "de": "einander"
+  },
+  {
+    "id": 439,
+    "kategorie": "Personalpronomen",
+    "it": "todos",
+    "de": "alle"
+  },
+  {
+    "id": 440,
+    "kategorie": "Verben",
+    "it": "trabajar",
+    "de": "arbeiten",
+    "formen": {
+      "yo": "trabajo",
+      "tu": "trabajas",
+      "el": "trabaja",
+      "nosotros": "trabajamos",
+      "vosotros": "trabajáis",
+      "ellos": "trabajan"
+    }
+  },
+  {
+    "id": 441,
+    "kategorie": "Verben",
+    "it": "estudiar",
+    "de": "lernen / studieren",
+    "formen": {
+      "yo": "estudio",
+      "tu": "estudias",
+      "el": "estudia",
+      "nosotros": "estudiamos",
+      "vosotros": "estudiáis",
+      "ellos": "estudian"
+    }
+  },
+  {
+    "id": 442,
+    "kategorie": "Verben",
+    "it": "vivir",
+    "de": "wohnen / leben",
+    "formen": {
+      "yo": "vivo",
+      "tu": "vives",
+      "el": "vive",
+      "nosotros": "vivimos",
+      "vosotros": "vivís",
+      "ellos": "viven"
+    }
+  },
+  {
+    "id": 443,
+    "kategorie": "Verben",
+    "it": "comprar",
+    "de": "kaufen",
+    "formen": {
+      "yo": "compro",
+      "tu": "compras",
+      "el": "compra",
+      "nosotros": "compramos",
+      "vosotros": "compráis",
+      "ellos": "compran"
+    }
+  },
+  {
+    "id": 444,
+    "kategorie": "Verben",
+    "it": "vender",
+    "de": "verkaufen",
+    "formen": {
+      "yo": "vendo",
+      "tu": "vendes",
+      "el": "vende",
+      "nosotros": "vendemos",
+      "vosotros": "vendéis",
+      "ellos": "venden"
+    }
+  },
+  {
+    "id": 445,
+    "kategorie": "Verben",
+    "it": "abrir",
+    "de": "öffnen",
+    "formen": {
+      "yo": "abro",
+      "tu": "abres",
+      "el": "abre",
+      "nosotros": "abrimos",
+      "vosotros": "abrís",
+      "ellos": "abren"
+    }
+  },
+  {
+    "id": 446,
+    "kategorie": "Verben",
+    "it": "cerrar",
+    "de": "schließen",
+    "formen": {
+      "yo": "cierro",
+      "tu": "cierras",
+      "el": "cierra",
+      "nosotros": "cerramos",
+      "vosotros": "cerráis",
+      "ellos": "cierran"
+    }
+  },
+  {
+    "id": 447,
+    "kategorie": "Verben",
+    "it": "mirar",
+    "de": "schauen",
+    "formen": {
+      "yo": "miro",
+      "tu": "miras",
+      "el": "mira",
+      "nosotros": "miramos",
+      "vosotros": "miráis",
+      "ellos": "miran"
+    }
+  },
+  {
+    "id": 448,
+    "kategorie": "Verben",
+    "it": "buscar",
+    "de": "suchen",
+    "formen": {
+      "yo": "busco",
+      "tu": "buscas",
+      "el": "busca",
+      "nosotros": "buscamos",
+      "vosotros": "buscáis",
+      "ellos": "buscan"
+    }
+  },
+  {
+    "id": 449,
+    "kategorie": "Verben",
+    "it": "encontrar",
+    "de": "finden",
+    "formen": {
+      "yo": "encuentro",
+      "tu": "encuentras",
+      "el": "encuentra",
+      "nosotros": "encontramos",
+      "vosotros": "encontráis",
+      "ellos": "encuentran"
+    }
+  },
+  {
+    "id": 450,
+    "kategorie": "Verben",
+    "it": "pensar",
+    "de": "denken",
+    "formen": {
+      "yo": "pienso",
+      "tu": "piensas",
+      "el": "piensa",
+      "nosotros": "pensamos",
+      "vosotros": "pensáis",
+      "ellos": "piensan"
+    }
+  },
+  {
+    "id": 451,
+    "kategorie": "Verben",
+    "it": "creer",
+    "de": "glauben",
+    "formen": {
+      "yo": "creo",
+      "tu": "crees",
+      "el": "cree",
+      "nosotros": "creemos",
+      "vosotros": "creéis",
+      "ellos": "creen"
+    }
+  },
+  {
+    "id": 452,
+    "kategorie": "Verben",
+    "it": "ayudar",
+    "de": "helfen",
+    "formen": {
+      "yo": "ayudo",
+      "tu": "ayudas",
+      "el": "ayuda",
+      "nosotros": "ayudamos",
+      "vosotros": "ayudáis",
+      "ellos": "ayudan"
+    }
+  },
+  {
+    "id": 453,
+    "kategorie": "Verben",
+    "it": "jugar",
+    "de": "spielen",
+    "formen": {
+      "yo": "juego",
+      "tu": "juegas",
+      "el": "juega",
+      "nosotros": "jugamos",
+      "vosotros": "jugáis",
+      "ellos": "juegan"
+    }
+  },
+  {
+    "id": 454,
+    "kategorie": "Verben",
+    "it": "caminar",
+    "de": "gehen / laufen",
+    "formen": {
+      "yo": "camino",
+      "tu": "caminas",
+      "el": "camina",
+      "nosotros": "caminamos",
+      "vosotros": "camináis",
+      "ellos": "caminan"
+    }
+  },
+  {
+    "id": 455,
+    "kategorie": "Verben",
+    "it": "nadar",
+    "de": "schwimmen",
+    "formen": {
+      "yo": "nado",
+      "tu": "nadas",
+      "el": "nada",
+      "nosotros": "nadamos",
+      "vosotros": "nadáis",
+      "ellos": "nadan"
+    }
+  },
+  {
+    "id": 456,
+    "kategorie": "Verben",
+    "it": "bailar",
+    "de": "tanzen",
+    "formen": {
+      "yo": "bailo",
+      "tu": "bailas",
+      "el": "baila",
+      "nosotros": "bailamos",
+      "vosotros": "bailáis",
+      "ellos": "bailan"
+    }
+  },
+  {
+    "id": 457,
+    "kategorie": "Verben",
+    "it": "cantar",
+    "de": "singen",
+    "formen": {
+      "yo": "canto",
+      "tu": "cantas",
+      "el": "canta",
+      "nosotros": "cantamos",
+      "vosotros": "cantáis",
+      "ellos": "cantan"
+    }
+  },
+  {
+    "id": 458,
+    "kategorie": "Verben",
+    "it": "cocinar",
+    "de": "kochen",
+    "formen": {
+      "yo": "cocino",
+      "tu": "cocinas",
+      "el": "cocina",
+      "nosotros": "cocinamos",
+      "vosotros": "cocináis",
+      "ellos": "cocinan"
+    }
+  },
+  {
+    "id": 459,
+    "kategorie": "Verben",
+    "it": "lavar",
+    "de": "waschen",
+    "formen": {
+      "yo": "lavo",
+      "tu": "lavas",
+      "el": "lava",
+      "nosotros": "lavamos",
+      "vosotros": "laváis",
+      "ellos": "lavan"
+    }
+  },
+  {
+    "id": 460,
+    "kategorie": "Verben",
+    "it": "limpiar",
+    "de": "putzen",
+    "formen": {
+      "yo": "limpio",
+      "tu": "limpias",
+      "el": "limpia",
+      "nosotros": "limpiamos",
+      "vosotros": "limpiáis",
+      "ellos": "limpian"
+    }
+  },
+  {
+    "id": 461,
+    "kategorie": "Verben",
+    "it": "descansar",
+    "de": "ausruhen",
+    "formen": {
+      "yo": "descanso",
+      "tu": "descansas",
+      "el": "descansa",
+      "nosotros": "descansamos",
+      "vosotros": "descansáis",
+      "ellos": "descansan"
+    }
+  },
+  {
+    "id": 462,
+    "kategorie": "Verben",
+    "it": "despertarse",
+    "de": "aufwachen",
+    "formen": {
+      "yo": "me despierto",
+      "tu": "te despiertas",
+      "el": "se despierta",
+      "nosotros": "nos despertamos",
+      "vosotros": "os despertáis",
+      "ellos": "se despiertan"
+    }
+  },
+  {
+    "id": 463,
+    "kategorie": "Verben",
+    "it": "levantarse",
+    "de": "aufstehen",
+    "formen": {
+      "yo": "me levanto",
+      "tu": "te levantas",
+      "el": "se levanta",
+      "nosotros": "nos levantamos",
+      "vosotros": "os levantáis",
+      "ellos": "se levantan"
+    }
+  },
+  {
+    "id": 464,
+    "kategorie": "Verben",
+    "it": "vestirse",
+    "de": "sich anziehen",
+    "formen": {
+      "yo": "me visto",
+      "tu": "te vistes",
+      "el": "se viste",
+      "nosotros": "nos vestimos",
+      "vosotros": "os vestís",
+      "ellos": "se visten"
+    }
+  },
+  {
+    "id": 465,
+    "kategorie": "Verben",
+    "it": "conducir",
+    "de": "fahren",
+    "formen": {
+      "yo": "conduzco",
+      "tu": "conduces",
+      "el": "conduce",
+      "nosotros": "conducimos",
+      "vosotros": "conducís",
+      "ellos": "conducen"
+    }
+  },
+  {
+    "id": 466,
+    "kategorie": "Verben",
+    "it": "viajar",
+    "de": "reisen",
+    "formen": {
+      "yo": "viajo",
+      "tu": "viajas",
+      "el": "viaja",
+      "nosotros": "viajamos",
+      "vosotros": "viajáis",
+      "ellos": "viajan"
+    }
+  },
+  {
+    "id": 467,
+    "kategorie": "Verben",
+    "it": "volar",
+    "de": "fliegen",
+    "formen": {
+      "yo": "vuelo",
+      "tu": "vuelas",
+      "el": "vuela",
+      "nosotros": "volamos",
+      "vosotros": "voláis",
+      "ellos": "vuelan"
+    }
+  },
+  {
+    "id": 468,
+    "kategorie": "Verben",
+    "it": "partir",
+    "de": "abreisen",
+    "formen": {
+      "yo": "parto",
+      "tu": "partes",
+      "el": "parte",
+      "nosotros": "partimos",
+      "vosotros": "partís",
+      "ellos": "parten"
+    }
+  },
+  {
+    "id": 469,
+    "kategorie": "Verben",
+    "it": "llegar",
+    "de": "ankommen",
+    "formen": {
+      "yo": "llego",
+      "tu": "llegas",
+      "el": "llega",
+      "nosotros": "llegamos",
+      "vosotros": "llegáis",
+      "ellos": "llegan"
+    }
+  },
+  {
+    "id": 470,
+    "kategorie": "Verben",
+    "it": "volver",
+    "de": "zurückkehren",
+    "formen": {
+      "yo": "vuelvo",
+      "tu": "vuelves",
+      "el": "vuelve",
+      "nosotros": "volvemos",
+      "vosotros": "volvéis",
+      "ellos": "vuelven"
+    }
+  },
+  {
+    "id": 471,
+    "kategorie": "Verben",
+    "it": "entrar",
+    "de": "eintreten",
+    "formen": {
+      "yo": "entro",
+      "tu": "entras",
+      "el": "entra",
+      "nosotros": "entramos",
+      "vosotros": "entráis",
+      "ellos": "entran"
+    }
+  },
+  {
+    "id": 472,
+    "kategorie": "Verben",
+    "it": "quedarse",
+    "de": "bleiben",
+    "formen": {
+      "yo": "me quedo",
+      "tu": "te quedas",
+      "el": "se queda",
+      "nosotros": "nos quedamos",
+      "vosotros": "os quedáis",
+      "ellos": "se quedan"
+    }
+  },
+  {
+    "id": 473,
+    "kategorie": "Verben",
+    "it": "esperar",
+    "de": "warten",
+    "formen": {
+      "yo": "espero",
+      "tu": "esperas",
+      "el": "espera",
+      "nosotros": "esperamos",
+      "vosotros": "esperáis",
+      "ellos": "esperan"
+    }
+  },
+  {
+    "id": 474,
+    "kategorie": "Verben",
+    "it": "encontrarse",
+    "de": "treffen",
+    "formen": {
+      "yo": "me encuentro",
+      "tu": "te encuentras",
+      "el": "se encuentra",
+      "nosotros": "nos encontramos",
+      "vosotros": "os encontráis",
+      "ellos": "se encuentran"
+    }
+  },
+  {
+    "id": 475,
+    "kategorie": "Verben",
+    "it": "llamar",
+    "de": "anrufen",
+    "formen": {
+      "yo": "llamo",
+      "tu": "llamas",
+      "el": "llama",
+      "nosotros": "llamamos",
+      "vosotros": "llamáis",
+      "ellos": "llaman"
+    }
+  },
+  {
+    "id": 476,
+    "kategorie": "Verben",
+    "it": "responder",
+    "de": "antworten",
+    "formen": {
+      "yo": "respondo",
+      "tu": "respondes",
+      "el": "responde",
+      "nosotros": "respondemos",
+      "vosotros": "respondéis",
+      "ellos": "responden"
+    }
+  },
+  {
+    "id": 477,
+    "kategorie": "Verben",
+    "it": "preguntar",
+    "de": "fragen",
+    "formen": {
+      "yo": "pregunto",
+      "tu": "preguntas",
+      "el": "pregunta",
+      "nosotros": "preguntamos",
+      "vosotros": "preguntáis",
+      "ellos": "preguntan"
+    }
+  },
+  {
+    "id": 478,
+    "kategorie": "Verben",
+    "it": "explicar",
+    "de": "erklären",
+    "formen": {
+      "yo": "explico",
+      "tu": "explicas",
+      "el": "explica",
+      "nosotros": "explicamos",
+      "vosotros": "explicáis",
+      "ellos": "explican"
+    }
+  },
+  {
+    "id": 479,
+    "kategorie": "Verben",
+    "it": "aprender",
+    "de": "lernen",
+    "formen": {
+      "yo": "aprendo",
+      "tu": "aprendes",
+      "el": "aprende",
+      "nosotros": "aprendemos",
+      "vosotros": "aprendéis",
+      "ellos": "aprenden"
+    }
+  },
+  {
+    "id": 480,
+    "kategorie": "Verben",
+    "it": "enseñar",
+    "de": "unterrichten",
+    "formen": {
+      "yo": "enseño",
+      "tu": "enseñas",
+      "el": "enseña",
+      "nosotros": "enseñamos",
+      "vosotros": "enseñáis",
+      "ellos": "enseñan"
+    }
+  },
+  {
+    "id": 481,
+    "kategorie": "Verben",
+    "it": "recordar",
+    "de": "erinnern",
+    "formen": {
+      "yo": "recuerdo",
+      "tu": "recuerdas",
+      "el": "recuerda",
+      "nosotros": "recordamos",
+      "vosotros": "recordáis",
+      "ellos": "recuerdan"
+    }
+  },
+  {
+    "id": 482,
+    "kategorie": "Verben",
+    "it": "olvidar",
+    "de": "vergessen",
+    "formen": {
+      "yo": "olvido",
+      "tu": "olvidas",
+      "el": "olvida",
+      "nosotros": "olvidamos",
+      "vosotros": "olvidáis",
+      "ellos": "olvidan"
+    }
+  },
+  {
+    "id": 483,
+    "kategorie": "Verben",
+    "it": "intentar",
+    "de": "versuchen",
+    "formen": {
+      "yo": "intento",
+      "tu": "intentas",
+      "el": "intenta",
+      "nosotros": "intentamos",
+      "vosotros": "intentáis",
+      "ellos": "intentan"
+    }
+  },
+  {
+    "id": 484,
+    "kategorie": "Verben",
+    "it": "continuar",
+    "de": "fortsetzen",
+    "formen": {
+      "yo": "continúo",
+      "tu": "continúas",
+      "el": "continúa",
+      "nosotros": "continuamos",
+      "vosotros": "continuáis",
+      "ellos": "continúan"
+    }
+  },
+  {
+    "id": 485,
+    "kategorie": "Verben",
+    "it": "observar",
+    "de": "anschauen",
+    "formen": {
+      "yo": "observo",
+      "tu": "observas",
+      "el": "observa",
+      "nosotros": "observamos",
+      "vosotros": "observáis",
+      "ellos": "observan"
+    }
+  },
+  {
+    "id": 486,
+    "kategorie": "Verben",
+    "it": "hablar",
+    "de": "sprechen",
+    "formen": {
+      "yo": "hablo",
+      "tu": "hablas",
+      "el": "habla",
+      "nosotros": "hablamos",
+      "vosotros": "habláis",
+      "ellos": "hablan"
+    }
+  },
+  {
+    "id": 487,
+    "kategorie": "Verben",
+    "it": "entender",
+    "de": "verstehen",
+    "formen": {
+      "yo": "entiendo",
+      "tu": "entiendes",
+      "el": "entiende",
+      "nosotros": "entendemos",
+      "vosotros": "entendéis",
+      "ellos": "entienden"
+    }
+  },
+  {
+    "id": 488,
+    "kategorie": "Verben",
+    "it": "usar",
+    "de": "benutzen",
+    "formen": {
+      "yo": "uso",
+      "tu": "usas",
+      "el": "usa",
+      "nosotros": "usamos",
+      "vosotros": "usáis",
+      "ellos": "usan"
+    }
+  },
+  {
+    "id": 489,
+    "kategorie": "Verben",
+    "it": "dar",
+    "de": "geben",
+    "formen": {
+      "yo": "doy",
+      "tu": "das",
+      "el": "da",
+      "nosotros": "damos",
+      "vosotros": "dais",
+      "ellos": "dan"
+    }
+  },
+  {
+    "id": 490,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "traer",
+    "de": "bringen",
+    "formen": {
+      "yo": "traigo",
+      "tu": "traes",
+      "el": "trae",
+      "nosotros": "traemos",
+      "vosotros": "traéis",
+      "ellos": "traen"
+    }
+  },
+  {
+    "id": 491,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "atrapar",
+    "de": "fangen",
+    "formen": {
+      "yo": "atrapo",
+      "tu": "atrapas",
+      "el": "atrapa",
+      "nosotros": "atrapamos",
+      "vosotros": "atrapáis",
+      "ellos": "atrapan"
+    }
+  },
+  {
+    "id": 492,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "luchar",
+    "de": "kämpfen",
+    "formen": {
+      "yo": "lucho",
+      "tu": "luchas",
+      "el": "lucha",
+      "nosotros": "luchamos",
+      "vosotros": "lucháis",
+      "ellos": "luchan"
+    }
+  },
+  {
+    "id": 493,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "indagar",
+    "de": "suchen (gehoben)",
+    "formen": {
+      "yo": "indago",
+      "tu": "indagas",
+      "el": "indaga",
+      "nosotros": "indagamos",
+      "vosotros": "indagáis",
+      "ellos": "indagan"
+    }
+  },
+  {
+    "id": 494,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "construir",
+    "de": "bauen",
+    "formen": {
+      "yo": "construyo",
+      "tu": "construyes",
+      "el": "construye",
+      "nosotros": "construimos",
+      "vosotros": "construís",
+      "ellos": "construyen"
+    }
+  },
+  {
+    "id": 495,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "enviar",
+    "de": "senden",
+    "formen": {
+      "yo": "envío",
+      "tu": "envías",
+      "el": "envía",
+      "nosotros": "enviamos",
+      "vosotros": "enviáis",
+      "ellos": "envían"
+    }
+  },
+  {
+    "id": 496,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "gastar",
+    "de": "ausgeben / verbringen",
+    "formen": {
+      "yo": "gasto",
+      "tu": "gastas",
+      "el": "gasta",
+      "nosotros": "gastamos",
+      "vosotros": "gastáis",
+      "ellos": "gastan"
+    }
+  },
+  {
+    "id": 497,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "prestar",
+    "de": "leihen",
+    "formen": {
+      "yo": "presto",
+      "tu": "prestas",
+      "el": "presta",
+      "nosotros": "prestamos",
+      "vosotros": "prestáis",
+      "ellos": "prestan"
+    }
+  },
+  {
+    "id": 498,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "doblar",
+    "de": "biegen",
+    "formen": {
+      "yo": "doblo",
+      "tu": "doblas",
+      "el": "dobla",
+      "nosotros": "doblamos",
+      "vosotros": "dobláis",
+      "ellos": "doblan"
+    }
+  },
+  {
+    "id": 499,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "sentir",
+    "de": "fühlen",
+    "formen": {
+      "yo": "siento",
+      "tu": "sientes",
+      "el": "siente",
+      "nosotros": "sentimos",
+      "vosotros": "sentís",
+      "ellos": "sienten"
+    }
+  },
+  {
+    "id": 500,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "guardar",
+    "de": "behalten",
+    "formen": {
+      "yo": "guardo",
+      "tu": "guardas",
+      "el": "guarda",
+      "nosotros": "guardamos",
+      "vosotros": "guardáis",
+      "ellos": "guardan"
+    }
+  },
+  {
+    "id": 501,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "barrer",
+    "de": "fegen",
+    "formen": {
+      "yo": "barro",
+      "tu": "barres",
+      "el": "barre",
+      "nosotros": "barremos",
+      "vosotros": "barréis",
+      "ellos": "barren"
+    }
+  },
+  {
+    "id": 502,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "llorar",
+    "de": "weinen",
+    "formen": {
+      "yo": "lloro",
+      "tu": "lloras",
+      "el": "llora",
+      "nosotros": "lloramos",
+      "vosotros": "lloráis",
+      "ellos": "lloran"
+    }
+  },
+  {
+    "id": 503,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "perder",
+    "de": "verlieren",
+    "formen": {
+      "yo": "pierdo",
+      "tu": "pierdes",
+      "el": "pierde",
+      "nosotros": "perdemos",
+      "vosotros": "perdéis",
+      "ellos": "pierden"
+    }
+  },
+  {
+    "id": 504,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "disparar",
+    "de": "schießen",
+    "formen": {
+      "yo": "disparo",
+      "tu": "disparas",
+      "el": "dispara",
+      "nosotros": "disparamos",
+      "vosotros": "disparáis",
+      "ellos": "disparan"
+    }
+  },
+  {
+    "id": 505,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "contar",
+    "de": "erzählen",
+    "formen": {
+      "yo": "cuento",
+      "tu": "cuentas",
+      "el": "cuenta",
+      "nosotros": "contamos",
+      "vosotros": "contáis",
+      "ellos": "cuentan"
+    }
+  },
+  {
+    "id": 506,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "sostener",
+    "de": "halten",
+    "formen": {
+      "yo": "sostengo",
+      "tu": "sostienes",
+      "el": "sostiene",
+      "nosotros": "sostenemos",
+      "vosotros": "sostenéis",
+      "ellos": "sostienen"
+    }
+  },
+  {
+    "id": 507,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "ponerse de pie",
+    "de": "stehen",
+    "formen": {
+      "yo": "me pongo de pie",
+      "tu": "te pones de pie",
+      "el": "se pone de pie",
+      "nosotros": "nos ponemos de pie",
+      "vosotros": "os ponéis de pie",
+      "ellos": "se ponen de pie"
+    }
+  },
+  {
+    "id": 508,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "resistir",
+    "de": "standhalten",
+    "formen": {
+      "yo": "resisto",
+      "tu": "resistes",
+      "el": "resiste",
+      "nosotros": "resistimos",
+      "vosotros": "resistís",
+      "ellos": "resisten"
+    }
+  },
+  {
+    "id": 509,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "esconder",
+    "de": "verstecken",
+    "formen": {
+      "yo": "escondo",
+      "tu": "escondes",
+      "el": "esconde",
+      "nosotros": "escondemos",
+      "vosotros": "escondéis",
+      "ellos": "esconden"
+    }
+  },
+  {
+    "id": 510,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "montar",
+    "de": "reiten / fahren",
+    "formen": {
+      "yo": "monto",
+      "tu": "montas",
+      "el": "monta",
+      "nosotros": "montamos",
+      "vosotros": "montáis",
+      "ellos": "montan"
+    }
+  },
+  {
+    "id": 511,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "subir",
+    "de": "aufsteigen",
+    "formen": {
+      "yo": "subo",
+      "tu": "subes",
+      "el": "sube",
+      "nosotros": "subimos",
+      "vosotros": "subís",
+      "ellos": "suben"
+    }
+  },
+  {
+    "id": 512,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "caer",
+    "de": "fallen",
+    "formen": {
+      "yo": "caigo",
+      "tu": "caes",
+      "el": "cae",
+      "nosotros": "caemos",
+      "vosotros": "caéis",
+      "ellos": "caen"
+    }
+  },
+  {
+    "id": 513,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "crecer",
+    "de": "wachsen",
+    "formen": {
+      "yo": "crezco",
+      "tu": "creces",
+      "el": "crece",
+      "nosotros": "crecemos",
+      "vosotros": "crecéis",
+      "ellos": "crecen"
+    }
+  },
+  {
+    "id": 514,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "lanzar",
+    "de": "werfen",
+    "formen": {
+      "yo": "lanzo",
+      "tu": "lanzas",
+      "el": "lanza",
+      "nosotros": "lanzamos",
+      "vosotros": "lanzáis",
+      "ellos": "lanzan"
+    }
+  },
+  {
+    "id": 515,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "soplar",
+    "de": "blasen",
+    "formen": {
+      "yo": "soplo",
+      "tu": "soplas",
+      "el": "sopla",
+      "nosotros": "soplamos",
+      "vosotros": "sopláis",
+      "ellos": "soplan"
+    }
+  },
+  {
+    "id": 516,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "dibujar",
+    "de": "zeichnen",
+    "formen": {
+      "yo": "dibujo",
+      "tu": "dibujas",
+      "el": "dibuja",
+      "nosotros": "dibujamos",
+      "vosotros": "dibujáis",
+      "ellos": "dibujan"
+    }
+  },
+  {
+    "id": 517,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "llevar",
+    "de": "tragen (Kleidung)",
+    "formen": {
+      "yo": "llevo",
+      "tu": "llevas",
+      "el": "lleva",
+      "nosotros": "llevamos",
+      "vosotros": "lleváis",
+      "ellos": "llevan"
+    }
+  },
+  {
+    "id": 518,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "rasgar",
+    "de": "zerreißen",
+    "formen": {
+      "yo": "rasgo",
+      "tu": "rasgas",
+      "el": "rasga",
+      "nosotros": "rasgamos",
+      "vosotros": "rasgáis",
+      "ellos": "rasgan"
+    }
+  },
+  {
+    "id": 519,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "jurar",
+    "de": "schwören",
+    "formen": {
+      "yo": "juro",
+      "tu": "juras",
+      "el": "jura",
+      "nosotros": "juramos",
+      "vosotros": "juráis",
+      "ellos": "juran"
+    }
+  },
+  {
+    "id": 520,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "robar",
+    "de": "stehlen",
+    "formen": {
+      "yo": "robo",
+      "tu": "robas",
+      "el": "roba",
+      "nosotros": "robamos",
+      "vosotros": "robáis",
+      "ellos": "roban"
+    }
+  },
+  {
+    "id": 521,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "congelar",
+    "de": "frieren / einfrieren",
+    "formen": {
+      "yo": "congelo",
+      "tu": "congelas",
+      "el": "congela",
+      "nosotros": "congelamos",
+      "vosotros": "congeláis",
+      "ellos": "congelan"
+    }
+  },
+  {
+    "id": 522,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "perdonar",
+    "de": "vergeben",
+    "formen": {
+      "yo": "perdono",
+      "tu": "perdonas",
+      "el": "perdona",
+      "nosotros": "perdonamos",
+      "vosotros": "perdonáis",
+      "ellos": "perdonan"
+    }
+  },
+  {
+    "id": 523,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "sacudir",
+    "de": "schütteln",
+    "formen": {
+      "yo": "sacudo",
+      "tu": "sacudes",
+      "el": "sacude",
+      "nosotros": "sacudimos",
+      "vosotros": "sacudís",
+      "ellos": "sacuden"
+    }
+  },
+  {
+    "id": 524,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "equivocarse",
+    "de": "sich irren / verwechseln",
+    "formen": {
+      "yo": "me equivoco",
+      "tu": "te equivocas",
+      "el": "se equivoca",
+      "nosotros": "nos equivocamos",
+      "vosotros": "os equivocáis",
+      "ellos": "se equivocan"
+    }
+  },
+  {
+    "id": 525,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "prohibir",
+    "de": "verbieten",
+    "formen": {
+      "yo": "prohíbo",
+      "tu": "prohíbes",
+      "el": "prohíbe",
+      "nosotros": "prohibimos",
+      "vosotros": "prohibís",
+      "ellos": "prohíben"
+    }
+  },
+  {
+    "id": 526,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "golpear",
+    "de": "schlagen / treffen",
+    "formen": {
+      "yo": "golpeo",
+      "tu": "golpeas",
+      "el": "golpea",
+      "nosotros": "golpeamos",
+      "vosotros": "golpeáis",
+      "ellos": "golpean"
+    }
+  },
+  {
+    "id": 527,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "cortar",
+    "de": "schneiden",
+    "formen": {
+      "yo": "corto",
+      "tu": "cortas",
+      "el": "corta",
+      "nosotros": "cortamos",
+      "vosotros": "cortáis",
+      "ellos": "cortan"
+    }
+  },
+  {
+    "id": 528,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "poner",
+    "de": "legen / stellen",
+    "formen": {
+      "yo": "pongo",
+      "tu": "pones",
+      "el": "pone",
+      "nosotros": "ponemos",
+      "vosotros": "ponéis",
+      "ellos": "ponen"
+    }
+  },
+  {
+    "id": 529,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "dejar (permitir)",
+    "de": "lassen",
+    "formen": {
+      "yo": "dejo",
+      "tu": "dejas",
+      "el": "deja",
+      "nosotros": "dejamos",
+      "vosotros": "dejáis",
+      "ellos": "dejan"
+    }
+  },
+  {
+    "id": 530,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "costar",
+    "de": "kosten",
+    "formen": {
+      "yo": "cuesto",
+      "tu": "cuestas",
+      "el": "cuesta",
+      "nosotros": "costamos",
+      "vosotros": "costáis",
+      "ellos": "cuestan"
+    }
+  },
+  {
+    "id": 531,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "herir",
+    "de": "verletzen",
+    "formen": {
+      "yo": "hiero",
+      "tu": "hieres",
+      "el": "hiere",
+      "nosotros": "herimos",
+      "vosotros": "herís",
+      "ellos": "hieren"
+    }
+  },
+  {
+    "id": 532,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "difundir",
+    "de": "verbreiten",
+    "formen": {
+      "yo": "difundo",
+      "tu": "difundes",
+      "el": "difunde",
+      "nosotros": "difundimos",
+      "vosotros": "difundís",
+      "ellos": "difunden"
+    }
+  },
+  {
+    "id": 533,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "cerrar de golpe",
+    "de": "schließen (schlagartig)",
+    "formen": {
+      "yo": "cierro",
+      "tu": "cierras",
+      "el": "cierra",
+      "nosotros": "cerramos",
+      "vosotros": "cerráis",
+      "ellos": "cierran"
+    }
+  },
+  {
+    "id": 534,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "colocar",
+    "de": "legen",
+    "formen": {
+      "yo": "coloco",
+      "tu": "colocas",
+      "el": "coloca",
+      "nosotros": "colocamos",
+      "vosotros": "colocáis",
+      "ellos": "colocan"
+    }
+  },
+  {
+    "id": 535,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "pagar",
+    "de": "bezahlen",
+    "formen": {
+      "yo": "pago",
+      "tu": "pagas",
+      "el": "paga",
+      "nosotros": "pagamos",
+      "vosotros": "pagáis",
+      "ellos": "pagan"
+    }
+  },
+  {
+    "id": 536,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "cavar",
+    "de": "graben",
+    "formen": {
+      "yo": "cavo",
+      "tu": "cavas",
+      "el": "cava",
+      "nosotros": "cavamos",
+      "vosotros": "caváis",
+      "ellos": "cavan"
+    }
+  },
+  {
+    "id": 537,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "ganar",
+    "de": "gewinnen",
+    "formen": {
+      "yo": "gano",
+      "tu": "ganas",
+      "el": "gana",
+      "nosotros": "ganamos",
+      "vosotros": "ganáis",
+      "ellos": "ganan"
+    }
+  },
+  {
+    "id": 538,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "pegar",
+    "de": "kleben / stecken",
+    "formen": {
+      "yo": "pego",
+      "tu": "pegas",
+      "el": "pega",
+      "nosotros": "pegamos",
+      "vosotros": "pegáis",
+      "ellos": "pegan"
+    }
+  },
+  {
+    "id": 539,
+    "kategorie": "Unregelmäßige Verben",
+    "it": "atacar",
+    "de": "schlagen / streiken",
+    "formen": {
+      "yo": "ataco",
+      "tu": "atacas",
+      "el": "ataca",
+      "nosotros": "atacamos",
+      "vosotros": "atacáis",
+      "ellos": "atacan"
+    }
+  }
+]
