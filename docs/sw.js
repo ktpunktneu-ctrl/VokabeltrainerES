@@ -1,5 +1,5 @@
-const CACHE = 'vokabeles-v4';
-const ASSETS = ['./', './index.html', './manifest.json', './static/icon-192.png', './static/icon-512.png'];
+const CACHE = 'vokabeles-v5';
+const ASSETS = ['./', './index.html', './manifest.json', './static/icon-192.png', './static/icon-512.png', './static/fonts/designer.woff2'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
