@@ -1494,7 +1494,6 @@ function antwortRichtig(eingabe, loesung) {
 
 const PERSON_LABEL = { yo:'yo', tu:'tú', el:'él/ella', nosotros:'nosotros', vosotros:'vosotros', ellos:'ellos/ellas' };
 const PERSONEN = Object.keys(PERSON_LABEL);
-const ABFRAGBARE_FORMEN = ['past','participle'];
 
 function startQuiz(liste = null) {
   const anzahl = parseInt(document.getElementById('start-anzahl').value);
@@ -1517,7 +1516,7 @@ function startQuiz(liste = null) {
       pool.push(basisPool[Math.floor(Math.random() * basisPool.length)]);
     }
     S.quizList = pool.map(v => {
-      const person = ABFRAGBARE_FORMEN[Math.floor(Math.random() * ABFRAGBARE_FORMEN.length)];
+      const person = PERSONEN[Math.floor(Math.random() * PERSONEN.length)];
       return { ...v, dir: 'konjugation', person, correctForm: v.formen[person] };
     });
   } else {
